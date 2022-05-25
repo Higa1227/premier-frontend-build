@@ -14,7 +14,8 @@
 			"id": 63700,
 			"url": "images/categories/real_estate.png"
 		},
-		"numberOfPost": 24
+		"numberOfPost": 24,
+		"link": "coming-soon"
 	},
 	{
 		"id": 31657,
@@ -31,7 +32,8 @@
 			"id": 10311,
 			"url": "images/categories/car.png"
 		},
-		"numberOfPost": 17
+		"numberOfPost": 17,
+		"link": "cars"
 	},
 	{
 		"id": 87806,
@@ -48,7 +50,8 @@
 			"id": 36159,
 			"url": "images/categories/yacht.png"
 		},
-		"numberOfPost": 1
+		"numberOfPost": 1,
+		"link": "coming-soon"
 	},
 	{
 		"id": 42541,
@@ -65,6 +68,7 @@
 			"id": 22545,
 			"url": "images/categories/jet.png"
 		},
-		"numberOfPost": 1
+		"numberOfPost": 1,
+		"link": "coming-soon"
 	}
 ]
